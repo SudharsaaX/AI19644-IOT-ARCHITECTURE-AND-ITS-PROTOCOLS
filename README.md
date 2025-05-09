@@ -20,11 +20,11 @@ All experiments are written using **Arduino (.ino)** files for NodeMCU and teste
 | 🔢 Exp No. | 📁 File | 📝 Title | 🔧 Key Concepts |
 |-----------|---------|----------|----------------|
 | 01 | [EXP-01](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/tree/main/EXP-01) | Introduction to IoT and Architecture | IoT overview, architecture, components |
-| 02a | [experiment_2a.ino](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-02/experiment_2a.ino) | Communication Models in IoT - Part A | Client-server, publish-subscribe models |
-| 02b | [experiment_2b.ino](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-02/experiment_2b.ino) | Communication Models in IoT - Part B | Hands-on with MQTT using Mosquitto |
-| 03a | [experiment_3a.ino](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-03/experiment_3a.ino) | IoT Protocols - Part A | CoAP, MQTT, HTTP comparison |
-| 03b | [experiement_3b.ino](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-03/experiement_3b.ino) | IoT Protocols - Part B | MQTT client implementation with NodeMCU |
-| 04 | [experiment_4.ino](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-04/experiment_4.ino) | Sensor Integration with NodeMCU | Analog and digital sensor interfacing |
+| 02a | [EXP-02a](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-02/experiment_2a.ino) | Communication Models in IoT - Part A | Client-server, publish-subscribe models |
+| 02b | [EXP-02b](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-02/experiment_2b.ino) | Communication Models in IoT - Part B | Hands-on with MQTT using Mosquitto |
+| 03a | [EXP-03a](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-03/experiment_3a.ino) | IoT Protocols - Part A | CoAP, MQTT, HTTP comparison |
+| 03b | [EXP-03b](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-03/experiement_3b.ino) | IoT Protocols - Part B | MQTT client implementation with NodeMCU |
+| 04 | [EXP-04](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-04/experiment_4.ino) | Sensor Integration with NodeMCU | Analog and digital sensor interfacing |
 
 ---
 
