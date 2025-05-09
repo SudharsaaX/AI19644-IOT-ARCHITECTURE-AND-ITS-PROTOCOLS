@@ -19,12 +19,12 @@ All experiments are written using **Arduino (.ino)** files for NodeMCU and teste
 
 | 🔢 Exp No. | 📁 File | 📝 Title | 🔧 Key Concepts |
 |-----------|---------|----------|----------------|
-| 01 | [EXP-01](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/tree/main/EXP-01) | Introduction to IoT and Architecture | IoT overview, architecture, components |
-| 02a | [EXP-02a](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-02/experiment_2a.ino) | Communication Models in IoT - Part A | Client-server, publish-subscribe models |
-| 02b | [EXP-02b](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-02/experiment_2b.ino) | Communication Models in IoT - Part B | Hands-on with MQTT using Mosquitto |
-| 03a | [EXP-03a](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-03/experiment_3a.ino) | IoT Protocols - Part A | CoAP, MQTT, HTTP comparison |
-| 03b | [EXP-03b](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-03/experiement_3b.ino) | IoT Protocols - Part B | MQTT client implementation with NodeMCU |
-| 04 | [EXP-04](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-04/experiment_4.ino) | Sensor Integration with NodeMCU | Analog and digital sensor interfacing |
+| 01 | [EXP-01](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/tree/main/EXP-01) | Arduino and Software Installation | Arduino IDE setup, board configuration, COM port selection |
+| 02a | [EXP-02a](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-02/experiment_2a.ino) | Interface LED with Arduino UNO | Digital output control, pin configuration, LED blinking logic |
+| 02b | [EXP-02b](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-02/experiment_2b.ino) | Interface Buzzer with Arduino UNO | Tone generation, buzzer activation, simple actuator control |
+| 03a | [EXP-03a](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-03/experiment_3a.ino) | Interfacing DHT11 & Print Temperature and Humidity | Sensor library usage, data reading, serial monitor display |
+| 03b | [EXP-03b](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-03/experiement_3b.ino) | Interfacing Motor via Relay & Control with Pushbutton | Relay switching, motor control logic, digital input via button |
+| 04 | [EXP-04](https://github.com/SudharsaaX/AI19644-IOT-ARCHITECTURE-AND-ITS-PROTOCOLS/blob/main/EXP-04/experiment_4.ino) | Interface Bluetooth HC-05 & Send Temp/Humidity Data | HC-05 serial communication, DHT11 integration, wireless data transfer |
 
 ---
 
